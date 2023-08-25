@@ -31,7 +31,7 @@ document.getElementById("contact-form").reset();
                   </div>
                   <div>
                     <h3 className="font-semibold text-black">Phone</h3>
-                    <p className="text-black">0740 229 655</p>
+                    <p className="text-black">0777 777 777</p>
                   </div>
                 </div>
                 <div className="flex p-2 space-x-3">
@@ -40,7 +40,7 @@ document.getElementById("contact-form").reset();
                   </div>
                   <div>
                     <h3 className="font-semibold text-black">Facebook</h3>
-                    <p className="text-black">Vlad Vidru</p>
+                    <p className="text-black">Catalin Oprea</p>
                   </div>
                 </div>
                 <div className="flex p-2 space-x-3">
@@ -49,7 +49,7 @@ document.getElementById("contact-form").reset();
                   </div>
                   <div>
                     <h3 className="font-semibold text-black">Instagram</h3>
-                    <p className="text-black">@vladvidru</p>
+                    <p className="text-black">@catalinopreapt</p>
                   </div>
                 </div>
                 {/* FORM */}
@@ -57,7 +57,7 @@ document.getElementById("contact-form").reset();
               <div className="w-[50%]">
                 <form
                   className="flex flex-col text-left p-3 space-y-4 bg-gray-200 rounded ease-in-out duration-200 shadow-md shadow-black hover:shadow-lg hover:shadow-black"
-                  action="https://formspree.io/f/moqoqbej"
+                  action="https://formspree.io/f/xgejkpqw"
                   method="POST"
                   target="_blank"
                   onSubmit={resetForm}
